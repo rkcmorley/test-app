@@ -1,2 +1,2 @@
 # Test Webpack 
-This project was made to test Webpack and NodeJS
+This project was made to test NodeJS and Webpack
